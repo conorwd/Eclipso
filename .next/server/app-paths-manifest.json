@@ -1,0 +1,7 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/locker/page": "app/locker/page.js",
+  "/minting/page": "app/minting/page.js",
+  "/page": "app/page.js",
+  "/wallet-operations/page": "app/wallet-operations/page.js"
+}
